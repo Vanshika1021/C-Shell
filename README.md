@@ -65,8 +65,6 @@ We welcome contributions to C-Shell! If you would like to contribute, please fol
     ```
 5. Create a pull request detailing your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any questions or inquiries, don't hesitate to get in touch with Vanshika Tripathi at vanitripathi1021@gmail.com.
